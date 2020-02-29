@@ -736,11 +736,11 @@ window.onload = function () {
     // this is the url of the image that will used as background for the profile cover
     background: "https://images.unsplash.com/photo-1495954484750-af469f2f9be5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
     // this is the url for the profile avatar
-    avatarURL: "https://media.licdn.com/dms/image/C4E03AQE8X5hjLqNqlQ/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=izt7iaWsWr6Zp0PT9P236NCPFKuKGg6Xae_T_2MwRmo",
+    avatarURL: "https://pbs.twimg.com/profile_images/943488527404281857/v9q4Vdqp_400x400.jpg",
     // social media bar position (left or right)
     socialMediaPosition: "left",
     // social media usernames
-    twitter: "Eddy_Prms",
+    twitter: null,
     github: null,
     linkedin: null,
     instagram: null,
